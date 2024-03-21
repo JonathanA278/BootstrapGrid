@@ -1,7 +1,7 @@
 button {
     border: none;
     color: #fff;
-    background-image: linear-gradient(30deg, #8400ff, #c497ff);
+    background-image: linear-gradient(30deg, #8e7bff, #8e7bff);
     border-radius: 20px;
     background-size: 100% auto;
     font-family: inherit;
@@ -35,7 +35,7 @@ button {
    .button2 {
     border: none;
     color: #fff;
-    background-image: linear-gradient(30deg, #61fc5b, #97ffa0);
+    background-image: linear-gradient(30deg, #80ea99, #80ea99);
     border-radius: 20px;
     background-size: 100% auto;
     font-family: inherit;
